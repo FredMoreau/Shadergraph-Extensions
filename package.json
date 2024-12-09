@@ -1,0 +1,23 @@
+{
+    "name": "com.unity.shadergraph.extensions",
+    "displayName": "Shader Graph Extensions",
+    "version": "0.0.1-preview.1",
+    "unity": "6000.0",
+    "description": "Shader Graph Custom Nodes and Tools.",
+    "author": {
+        "name": "Fred Moreau",
+        "email": "frederic.moreau@unity3d.com",
+        "url": "https://www.unity3d.com"
+    },
+    "keywords": [
+        "unity",
+        "editor",
+        "shader graph"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:UserName/Repository.git"
+    },
+    "samples": [],
+    "hideInEditor": false
+}
